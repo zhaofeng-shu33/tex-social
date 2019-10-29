@@ -5,6 +5,9 @@ docx 是一种私有格式，替代品是 open office 系列，但就排版而�
 
 劣势有其他人不会 TeX 排版无法编辑。
 
+## 敏感信息
+社工文档会对一些敏感信息进行一定的预处理。
+
 ## How to compile
 
 Use `xelatex`.
